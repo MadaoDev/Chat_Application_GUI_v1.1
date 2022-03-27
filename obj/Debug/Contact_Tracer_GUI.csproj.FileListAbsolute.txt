@@ -1,0 +1,22 @@
+E:\Uni work\Course2\Year 2\Trimester 4\PBT\Contact_Tracer_GUI\bin\Debug\Contact_Tracer_GUI.exe.config
+E:\Uni work\Course2\Year 2\Trimester 4\PBT\Contact_Tracer_GUI\bin\Debug\Contact_Tracer_GUI.exe
+E:\Uni work\Course2\Year 2\Trimester 4\PBT\Contact_Tracer_GUI\bin\Debug\Contact_Tracer_GUI.pdb
+E:\Uni work\Course2\Year 2\Trimester 4\PBT\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.csprojAssemblyReference.cache
+E:\Uni work\Course2\Year 2\Trimester 4\PBT\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.Form1.resources
+E:\Uni work\Course2\Year 2\Trimester 4\PBT\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.Properties.Resources.resources
+E:\Uni work\Course2\Year 2\Trimester 4\PBT\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.csproj.GenerateResource.cache
+E:\Uni work\Course2\Year 2\Trimester 4\PBT\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.csproj.CoreCompileInputs.cache
+E:\Uni work\Course2\Year 2\Trimester 4\PBT\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.exe
+E:\Uni work\Course2\Year 2\Trimester 4\PBT\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.pdb
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\bin\Debug\Contact_Tracer_GUI.exe.config
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\bin\Debug\Contact_Tracer_GUI.exe
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\bin\Debug\Contact_Tracer_GUI.pdb
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.csproj.AssemblyReference.cache
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.Form1.resources
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.Properties.Resources.resources
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.csproj.GenerateResource.cache
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.exe
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.pdb
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.Chat.resources
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.Form2.resources

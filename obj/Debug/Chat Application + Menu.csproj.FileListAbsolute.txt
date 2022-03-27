@@ -1,0 +1,11 @@
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\bin\Debug\Contact_Tracer_GUI.exe.config
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\bin\Debug\Contact_Tracer_GUI.exe
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\bin\Debug\Contact_Tracer_GUI.pdb
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.Chat.resources
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.Form1.resources
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.Form2.resources
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.Properties.Resources.resources
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Chat Application + Menu.csproj.GenerateResource.cache
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Chat Application + Menu.csproj.CoreCompileInputs.cache
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.exe
+C:\Users\Sandra\Desktop\Contact_Tracer_GUI_v1\Contact_Tracer_GUI\obj\Debug\Contact_Tracer_GUI.pdb
